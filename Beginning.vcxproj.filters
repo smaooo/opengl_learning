@@ -34,5 +34,8 @@
     <None Include="shader.frag">
       <Filter>Source Files</Filter>
     </None>
+    <None Include="shader1.frag">
+      <Filter>Source Files</Filter>
+    </None>
   </ItemGroup>
 </Project>
