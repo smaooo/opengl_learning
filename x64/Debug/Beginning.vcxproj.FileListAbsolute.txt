@@ -1,2 +1,0 @@
-D:\OpenGL\Beginning\x64\Debug\Beginning.exe
-D:\OpenGL\opengl_learning\x64\Debug\Beginning.exe
